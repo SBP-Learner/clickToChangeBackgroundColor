@@ -37,9 +37,6 @@
   border-radius: .5rem;
   padding:1rem;
 }
-h1,p {
-  display: flex;
-}
 #color-grey{background-color:grey}
 #color-green{background-color: green}
 #color-red{background-color: red}
